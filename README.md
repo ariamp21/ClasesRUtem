@@ -1,2 +1,2 @@
 # ClasesRUtem
-Clases para curso de R dirigido a los profesores de la UTEM
+Clases para curso de R dirigido a profesores de la UTEM
